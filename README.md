@@ -1,16 +1,24 @@
-## Hi there 👋
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-<!--
-**ShutovaEllina/ShutovaEllina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="header">
+    <h1>Hi! I'm Ellina</a> 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+    <p> I'm a certified Quality Assurance engineer with 4 years expirience </p>
+</div>
 
-Here are some ideas to get you started:
+</body>
+</html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+Certified QA Engineer with a proven track record of ensuring top-notch software quality. Proficient in test management and web API testing, working with databases and 3D objects. Skilled in project management and writing automated tests. Adept at leveraging technical expertise and industry knowledge to deliver high-quality outcomes in testing desktop, web and mobile applications. Accomplished in mentoring and collaborating with cross-functional multinational teams to achieve project milestones.
+
+🔭 I’m currently learning Automated Software Testing with Python
+
+Connect with me https://www.linkedin.com/in/ellina-shutova/
