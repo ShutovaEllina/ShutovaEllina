@@ -17,8 +17,13 @@
 
 
 
-Certified QA Engineer with a proven track record of ensuring top-notch software quality. Proficient in test management and web API testing, working with databases and 3D objects. Skilled in project management and writing automated tests. Adept at leveraging technical expertise and industry knowledge to deliver high-quality outcomes in testing desktop, web and mobile applications. Accomplished in mentoring and collaborating with cross-functional multinational teams to achieve project milestones.
+Certified ISTQB® QA Engineer with a proven track record of ensuring top-notch software quality. Proficient in test management and web API testing, working with databases and 3D objects. Skilled in project management and writing automated tests. Adept at leveraging technical expertise and industry knowledge to deliver high-quality outcomes in testing desktop, web and mobile applications. Accomplished in mentoring and collaborating with cross-functional multinational teams to achieve project milestones.
 
-🔭 I’m currently learning Automated Software Testing with Python
+🔎 API testing expert (Postman, Fiddler, JMeter, Pytest)
+
+🔬 Experience with high-precision equipment (3d printers and milling machines)
+
+👩‍🎓 I’m currently learning Automated Software Testing with Python in Udemy
+
 
 Connect with me https://www.linkedin.com/in/ellina-shutova/
