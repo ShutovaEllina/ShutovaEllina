@@ -20,7 +20,7 @@ I'm a certified ISTQB® Quality Assurance engineer with 4 years expirience and a
 
 🔬 Experience with high-precision equipment (3d printers and milling machines)
 
-👩‍🎓 I’m currently learning Automated Software Testing with Python in Udemy
+👩‍🎓 I’m currently learning Automated Software Testing with Python in Udemy https://www.udemy.com/course/automated-software-testing-with-python/
 
 
 Connect with me https://www.linkedin.com/in/ellina-shutova/
