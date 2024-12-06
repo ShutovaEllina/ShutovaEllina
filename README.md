@@ -8,16 +8,13 @@
 <div class="header">
     <h1>Hi! I'm Ellina</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-    <p> I'm a certified Quality Assurance engineer with 4 years expirience </p>
 </div>
 
 </body>
 </html>
 
 
-
-
-Certified ISTQB® QA Engineer with a proven track record of ensuring top-notch software quality. Proficient in test management and web API testing, working with databases and 3D objects. Skilled in project management and writing automated tests. Adept at leveraging technical expertise and industry knowledge to deliver high-quality outcomes in testing desktop, web and mobile applications. Accomplished in mentoring and collaborating with cross-functional multinational teams to achieve project milestones.
+I'm a certified ISTQB® Quality Assurance engineer with 4 years expirience and a proven track record of ensuring top-notch software quality. Proficient in test management and web API testing, working with databases and 3D objects. Skilled in project management and writing automated tests. Adept at leveraging technical expertise and industry knowledge to deliver high-quality outcomes in testing desktop, web and mobile applications. Accomplished in mentoring and collaborating with cross-functional multinational teams to achieve project milestones.
 
 🔎 API testing expert (Postman, Fiddler, JMeter, Pytest)
 
