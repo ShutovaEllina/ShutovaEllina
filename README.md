@@ -18,7 +18,7 @@ I'm a certified ISTQB® Quality Assurance engineer with 4 years experience and a
  
 🔎 API testing expert (Postman, Fiddler, JMeter, Pytest)  
   
-🔬 Experience with high-precision equipment (3D printers and milling machines)
+🔬 Experience with high-precision equipment (3D printers and milling machines) 
 
 👩‍🎓 I’m currently learning on course Automated Software Testing with Python in Udemy https://www.udemy.com/course/automated-software-testing-with-python/
 
